@@ -98,7 +98,7 @@ ctr_query = """
     ORDER BY day DESC
 """
 
-tg_token = '5594784718:AAGAin4gluFzJ7FmJmAhEHCMZ0VCOKDR3Rg'
+tg_token = '5555555555:AAGAin4gluFzJ7FmJmAhEHCMZ0VCOKDR3Rg'
 my_bot = telegram.Bot(token=tg_token)
 chat_id = -555114317
 
